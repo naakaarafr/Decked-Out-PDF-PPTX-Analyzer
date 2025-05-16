@@ -31,7 +31,7 @@ google-generativeai
 python-dotenv
 pillow
 python-pptx
-
+````
 
 Install with:
 
