@@ -131,24 +131,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
-
-1. Fork this repository.
-2. Create a branch:
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-
-   ```bash
-   git commit -m "Add awesome feature"
-   ```
-4. Push to your branch and open a Pull Request.
-
-Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
----
 
 ## 📄 License
 
