@@ -1,4 +1,4 @@
-````markdown
+
 # 📄 Decked Out PDF/PPTX Analyzer
 
 An AI‑powered Streamlit app that lets you upload PDF or PowerPoint files and instantly generate concise, high‑value notes in three styles—Official, English, or Hinglish—using Google’s Gemini API. You can also chat interactively about your document’s contents and download your notes as Markdown.
@@ -31,7 +31,7 @@ google-generativeai
 python-dotenv
 pillow
 python-pptx
-````
+
 
 Install with:
 
