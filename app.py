@@ -46,7 +46,7 @@ except ImportError:
     #st.sidebar.warning("PDF2Image not available. For better results, install pdf2image and poppler.")
 
 # Initialize Google Generative AI client
-api_key = "AIzaSyD3NolCrmq8fMv-FbSNll0fgXsVTkOXXtg"
+api_key = os.getenv("GOOGLE_API_KEY")
 if api_key:
     genai.configure(api_key=api_key)
 else:
