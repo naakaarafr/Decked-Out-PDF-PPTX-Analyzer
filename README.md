@@ -66,8 +66,8 @@ pip install -r requirements.txt
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/decked-out-pdf-analyzer.git
-   cd decked-out-pdf-analyzer
+   git clone https://github.com/naakaarafr/Decked-Out-PDF-PPTX-Analyzer.git
+   cd Decked-Out-PDF-PPTX-Analyzer
    ```
 
 2. **Create a `.env` file** in the project root containing your API key and model choice:
